@@ -7,7 +7,9 @@
 - [ASP.NET範例程式碼](https://github.com/trafficmotc/TrafficXMLValidation/tree/master/ASP.NET)
 - [Java範例程式碼](https://github.com/trafficmotc/TrafficXMLValidation/tree/master/Java)
 ---
-[交通部即時路況資訊流通平臺](https://traffic.transportdata.tw/VD2/login.jsp?sendurl=common/announcements.jsp)
-[Traffic XML Schema資料驗證工具](http://traffic.transportdata.tw/Standard/XSD/Validator)
-[即時路況資料標準V2.0說明文件](https://traffic.transportdata.tw/VD2/references/V2.0-Inbound.pdf)
+
+相關網站：
+- [交通部即時路況資訊流通平臺](https://traffic.transportdata.tw/VD2/login.jsp?sendurl=common/announcements.jsp)
+- [Traffic XML Schema資料驗證工具](http://traffic.transportdata.tw/Standard/XSD/Validator)
+- [即時路況資料標準V2.0說明文件](https://traffic.transportdata.tw/VD2/references/V2.0-Inbound.pdf)
 
