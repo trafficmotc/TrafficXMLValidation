@@ -4,7 +4,7 @@
 
 ## 平台提供教學範例
 
-- [ASP.NET範例程式碼](https://github.com/trafficmotc/TrafficXMLValidation/tree/master/ASP.NET)
+- [ASP.NET範例程式碼](https://github.com/ptxmotc/XMLValidation/tree/master/ASP.NET/XSDVAL.Traffic)
 - [Java範例程式碼](https://github.com/trafficmotc/TrafficXMLValidation/tree/master/Java)
 
 
